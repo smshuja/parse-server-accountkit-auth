@@ -1,6 +1,6 @@
 {
   "name": "parse-server-accountkit-auth",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Facebook AccountKit Authentication module for Parse Server",
   "main": "index.js",
   "scripts": {
