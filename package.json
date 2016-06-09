@@ -1,0 +1,30 @@
+{
+  "name": "parse-server-accountkit-auth",
+  "version": "0.0.1",
+  "description": "Facebook AccountKit Authentication module for Parse Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://smshuja@github.com/smshuja/parse-server-accountkit-auth.git"
+  },
+  "keywords": [
+    "parse-server",
+    "account",
+    "account",
+    "kit",
+    "kit",
+    "auth",
+    "authentication",
+    "parse",
+    "accountkit"
+  ],
+  "author": "Shuja Shabandri <shuja@shabandri.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smshuja/parse-server-accountkit-auth/issues"
+  },
+  "homepage": "https://github.com/smshuja/parse-server-accountkit-auth#readme"
+}
